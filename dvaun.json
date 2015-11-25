@@ -1,0 +1,9 @@
+{
+    "sandwich": {
+        "type": "Hot Pastrami",
+        "bread": "Rye",
+        "vegetables": "Onions, Sauerkraut",
+        "sauces": "Mustard, Oil",
+        "meats": "Pastrami"
+    }
+}

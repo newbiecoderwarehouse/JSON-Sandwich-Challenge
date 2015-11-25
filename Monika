@@ -1,0 +1,9 @@
+{
+    "sandwich": {
+        "type": "Veggie Patty",
+        "bread": "Italian",
+        "vegetables": "Romain Lettuce",
+        "sauces": "Mustard,Mayo,Vinegar, Oil",
+        "meats": "Veggie patty"
+    }
+}

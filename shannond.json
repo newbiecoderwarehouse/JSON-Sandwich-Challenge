@@ -1,0 +1,43 @@
+{
+    "sandwich": {
+        "name": "Roasted Pepper, Mozz, and Tomato",
+        "canBe": {
+            "wrap": true,
+            "hoagie": false,
+            "panini": true,
+            "sandwich": false
+        },
+        "canHave": {
+            "bread": {
+                "tortilla": true,
+                "whole wheat bread": false,
+                "ciabatta": true,
+                "bun": false
+            },
+            "veg": {
+                "avocado": false,
+                "roasted red peppers": true,
+                "tomatoes": true,
+                "fresh red onion": true,
+                "sauteed onion": false,
+                "fresh spinach": true,
+                "lettuce": false
+            },
+            "protein": {
+                "chicken": false,
+                "roast beef": false,
+                "ham": false,
+                "smoked turkey": false,
+                "tuna salad": false,
+                "egg salad": false
+            },
+            "cheese": {
+                "mozzarella": true,
+                "cheddar": false,
+                "nacho": false,
+                "feta": false,
+                "swiss": false
+            }
+        }
+    }
+}

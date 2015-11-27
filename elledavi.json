@@ -1,0 +1,10 @@
+{
+    "sandwich": {
+        "type": "Turkey Club",
+        "bread": "Honey Wheat",
+        "vegetables": "spinach,banana peppers,onions,bell peppers",
+        "spread": "Olive Oil Mayo,Mustard",
+        "meats": "Turkey"
+        
+    }
+}

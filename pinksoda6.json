@@ -1,0 +1,11 @@
+{
+	"sandwich": {
+
+		"bread": "rye",
+		"vegetables": "lettuce, onion, tomato, cucumber",
+		"meats": "turkey",
+		"sauce": "salt and pepper",
+		"cheese": "cheddar",
+		"egg": "over hard"
+	}
+}
